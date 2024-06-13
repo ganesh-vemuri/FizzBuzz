@@ -1,0 +1,18 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+.npm
+
+# Misc
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+# IDE specific files
+.vscode/
+.idea/
